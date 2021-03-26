@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DuckDuckGoose.Data", "DuckDuckGoose.Data\DuckDuckGoose.Data.csproj", "{804687DA-B63C-4EA9-8055-D5EE74E59F8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DuckDuckGoose.UI", "DuckDuckGoose.UI\DuckDuckGoose.UI.csproj", "{BAE3491C-C619-4F34-A261-E07DF4F7C334}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{804687DA-B63C-4EA9-8055-D5EE74E59F8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{804687DA-B63C-4EA9-8055-D5EE74E59F8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{804687DA-B63C-4EA9-8055-D5EE74E59F8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{804687DA-B63C-4EA9-8055-D5EE74E59F8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAE3491C-C619-4F34-A261-E07DF4F7C334}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAE3491C-C619-4F34-A261-E07DF4F7C334}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAE3491C-C619-4F34-A261-E07DF4F7C334}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAE3491C-C619-4F34-A261-E07DF4F7C334}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EC72C87-2E9A-47F3-97C0-5360BF53DEAF}
+	EndGlobalSection
+EndGlobal

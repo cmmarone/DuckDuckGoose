@@ -1,0 +1,10 @@
+C:\Users\cmmar\source\repos\DuckDuckGoose\DuckDuckGoose.UI\bin\Debug\DuckDuckGoose.UI.exe.config
+C:\Users\cmmar\source\repos\DuckDuckGoose\DuckDuckGoose.UI\bin\Debug\DuckDuckGoose.UI.exe
+C:\Users\cmmar\source\repos\DuckDuckGoose\DuckDuckGoose.UI\bin\Debug\DuckDuckGoose.UI.pdb
+C:\Users\cmmar\source\repos\DuckDuckGoose\DuckDuckGoose.UI\bin\Debug\DuckDuckGoose.Data.dll
+C:\Users\cmmar\source\repos\DuckDuckGoose\DuckDuckGoose.UI\bin\Debug\DuckDuckGoose.Data.pdb
+C:\Users\cmmar\source\repos\DuckDuckGoose\DuckDuckGoose.UI\obj\Debug\DuckDuckGoose.UI.csprojAssemblyReference.cache
+C:\Users\cmmar\source\repos\DuckDuckGoose\DuckDuckGoose.UI\obj\Debug\DuckDuckGoose.UI.csproj.CoreCompileInputs.cache
+C:\Users\cmmar\source\repos\DuckDuckGoose\DuckDuckGoose.UI\obj\Debug\DuckDuckGoose.UI.csproj.CopyComplete
+C:\Users\cmmar\source\repos\DuckDuckGoose\DuckDuckGoose.UI\obj\Debug\DuckDuckGoose.UI.exe
+C:\Users\cmmar\source\repos\DuckDuckGoose\DuckDuckGoose.UI\obj\Debug\DuckDuckGoose.UI.pdb

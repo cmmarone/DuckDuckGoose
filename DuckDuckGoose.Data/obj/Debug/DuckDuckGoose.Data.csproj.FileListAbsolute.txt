@@ -1,0 +1,6 @@
+C:\Users\cmmar\source\repos\DuckDuckGoose\DuckDuckGoose.Data\bin\Debug\DuckDuckGoose.Data.dll
+C:\Users\cmmar\source\repos\DuckDuckGoose\DuckDuckGoose.Data\bin\Debug\DuckDuckGoose.Data.pdb
+C:\Users\cmmar\source\repos\DuckDuckGoose\DuckDuckGoose.Data\obj\Debug\DuckDuckGoose.Data.csprojAssemblyReference.cache
+C:\Users\cmmar\source\repos\DuckDuckGoose\DuckDuckGoose.Data\obj\Debug\DuckDuckGoose.Data.csproj.CoreCompileInputs.cache
+C:\Users\cmmar\source\repos\DuckDuckGoose\DuckDuckGoose.Data\obj\Debug\DuckDuckGoose.Data.dll
+C:\Users\cmmar\source\repos\DuckDuckGoose\DuckDuckGoose.Data\obj\Debug\DuckDuckGoose.Data.pdb
